@@ -8,6 +8,6 @@ The notebook provides codes of DQN solution for City Brain Challenge 2021, which
    * Our DQN model is implemented in pytorch, users can install the pytorch by the simple command ``pip3 install torch'' 
 
 ## Model training and submit
-   * Run 'python3 DQNSimulation120' for simulation.
+   * Run 'python3 DQNSimulation120.py' for simulation.
    * You can get model parameter file in the fold 'agent/Params'. e.g., 'epoch_DQN1002_48_metrics_-47428.740.param'.
    * Load the model file in the file agent.py 
